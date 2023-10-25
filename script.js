@@ -1,6 +1,6 @@
 
 
-const listaSpesa = [ "marmellata", "pane", "burro", "caffè"];
+/*const listaSpesa = [ "marmellata", "pane", "burro", "caffè"];
 
 
 let i = 0;
@@ -12,5 +12,5 @@ while (listaSpesa[i]){
 
 //brutalmente me ne scuso stampo sulla pagina la lista di ogni item singolarmente
 document.getElementById("demo").innerHTML = text;
-
+*/
 
